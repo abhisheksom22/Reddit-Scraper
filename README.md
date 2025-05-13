@@ -89,7 +89,7 @@ cutoff_timestamp = datetime(2024, 4, 21, tzinfo=timezone.utc).timestamp()
 After filling in your credentials and editing the keywords/subreddits if needed, just run:
 
 ```bash
-python reddit2_kappy.py
+python reddit_scraping.py
 ```
 
 You’ll see log messages like:
